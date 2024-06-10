@@ -1,0 +1,1 @@
+The project aims to analyze human resources data, focusing on employees' decisions to stay or leave the company by using machine learning and data analysis methods to propose solutions for human resource management issues.
