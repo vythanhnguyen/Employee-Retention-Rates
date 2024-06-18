@@ -7,6 +7,8 @@ Download data from Kaggle: https://www.kaggle.com/datasets/saadharoon27/hr-analy
 2. Univariate and Multivariate analysis
 3. Machine Learning Prediction
 ## Data Visualization
+![image](https://github.com/vythanhnguyen/Employee-Retention-Rates/assets/162904704/27fc48d8-0560-4132-809a-53810f513d40)
+
 ![image](https://github.com/vythanhnguyen/Employee-Retention-Rates/assets/162904704/881ceb59-6df8-4ff7-9bf9-2782336fb808)
 
 ![image](https://github.com/vythanhnguyen/Employee-Retention-Rates/assets/162904704/e76ff46b-f9be-4fac-ae70-1f81c49e991a)
